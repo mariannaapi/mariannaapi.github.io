@@ -1,1 +1,5 @@
-alsjdlk
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
