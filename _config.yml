@@ -11,6 +11,7 @@ minima:
 header_pages:
  - publications.md
  - bio.md
+ - contact.md
 
 # Build settings
 theme: minima
