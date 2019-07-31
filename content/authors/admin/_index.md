@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Marianna Apidianaki
+---
 
 # Username (this should match the folder name)
 authors: mariannaapi
