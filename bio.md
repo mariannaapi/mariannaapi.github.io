@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Bio/Activities
-permalink: /bio.html
+permalink: /bio/
 ---
 
