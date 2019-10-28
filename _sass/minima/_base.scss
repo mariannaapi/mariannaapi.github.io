@@ -82,11 +82,8 @@ ul, ol {
   margin-left: $spacing-unit;
 }
 
-li {
-  > ul,
-  > ol {
-    margin: 10px 0;
-  }
+li:not(:last-child) {
+    margin-bottom: 5px;
 }
 
 
